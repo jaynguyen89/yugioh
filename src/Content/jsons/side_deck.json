@@ -1,0 +1,164 @@
+[
+    {
+        "id": "159",
+        "title": "Twister",
+        "type": "Quick Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Pay 500 LP, then target 1 face-up Spell/Trap Card on the field, destroy that target.",
+        "photo" : "twister.png"
+    },
+    {
+        "id": "160",
+        "title": "Twister",
+        "type": "Quick Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Pay 500 LP, then target 1 face-up Spell/Trap Card on the field, destroy that target.",
+        "photo" : "twister.png"
+    },
+    {
+        "id": "161",
+        "title": "Twister",
+        "type": "Quick Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Pay 500 LP, then target 1 face-up Spell/Trap Card on the field, destroy that target.",
+        "photo" : "twister.png"
+    },
+    {
+        "id": "162",
+        "title": "Twister",
+        "type": "Quick Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Pay 500 LP, then target 1 face-up Spell/Trap Card on the field, destroy that target.",
+        "photo" : "twister.png"
+    },
+    {
+        "id":"163",
+        "title": "Soul Charge",
+        "type": "Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Target any number of monsters in your GY; Special Summon them, and if you do, you lose 1000 LP for each monster Special Summoned by this effect. You cannot conduct your Battle Phase the turn you activate this card. You can only activate 1 \"Soul Charge\" per turn.",
+        "photo" : "soulcharge.png"
+    },
+    {
+        "id":"164",
+        "title": "Mind Control",
+        "type": "Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Target 1 monster your opponent controls; until the End Phase, take control of that target, but it cannot declare an attack or be Tributed.",
+        "photo" : "mindcontrol.png"
+    },
+    {
+        "id": "165",
+        "title": "Xyz Override",
+        "type": "Field Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "If an Xyz Monster on the field would activate its effect by detaching its own Xyz Material(s), its controller can banish 1 card from their hand face-down instead of detaching 1 of those Xyz Materials. Each player can only use this effect once per turn.",
+        "photo" : "xyzoverride.png"
+    },
+    {
+        "id": "166",
+        "title": "Xyz Override",
+        "type": "Field Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "If an Xyz Monster on the field would activate its effect by detaching its own Xyz Material(s), its controller can banish 1 card from their hand face-down instead of detaching 1 of those Xyz Materials. Each player can only use this effect once per turn.",
+        "photo" : "xyzoverride.png"
+    },
+    {
+        "id": "167",
+        "title": "Black Horn of Heaven",
+        "type": "Counter Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "When your opponent would Special Summon a monster: Negate the Special Summon, and if you do, destroy it.",
+        "photo" : "blackhorn.png"
+    },
+    {
+        "id": "168",
+        "title": "Black Horn of Heaven",
+        "type": "Counter Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "When your opponent would Special Summon a monster: Negate the Special Summon, and if you do, destroy it.",
+        "photo" : "blackhorn.png"
+    },
+    {
+        "id": "169",
+        "title": "Fiendish Chain",
+        "type": "Infinite Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Select 1 monster on the field. Its effects are negated and it cannot attack or be Tributed. When it is destroyed and sent to the Graveyard, destroy this card. If your Life Points are 1000 or less, destroy this card.",
+        "photo" : "fiendishchain.png"
+    },
+    {
+        "id": "170",
+        "title": "Torrential Tribute",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "When a monster(s) is Summoned: Destroy all monsters on the field.",
+        "photo" : "torrentialtribute.png"
+    },
+    {
+        "id": "171",
+        "title": "Number 50: Blackship of Corn",
+        "type": "Plant / Xyz / Effect",
+        "attack" : 2100,
+        "defense" : 1500,
+        "description" : "Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls with ATK less than or equal to this card's; send it to the Graveyard, and if you do, inflict 1000 damage to your opponent. This card cannot attack the turn you activate this effect.",
+        "photo" : "number50blackship.png"
+    },
+    {
+        "id": "172",
+        "title": "Number 39: Utopia",
+        "type": "Warrior / Xyz / Effect",
+        "attack" : 2500,
+        "defense" : 2000,
+        "description" : "When any player's monster declares an attack: You can detach 1 Xyz Material from this card; negate the attack. When this card is targeted for an attack, while it has no Xyz Materials: Destroy this card.",
+        "photo" : "number39utopia.png"
+    },
+    {
+        "id": "173",
+        "title": "Number 66: Master Key Beetle",
+        "type": "Insect / Xyz / Effect",
+        "attack" : 2500,
+        "defense" : 800,
+        "description" : "Once per turn: You can detach 1 Xyz Material from this card, then target 1 card you control, except this card; while this card is face-up on the field, that card(s) cannot be destroyed by card effects. If this face-up card on the field would be destroyed, you can send one of its targets to the Graveyard instead.",
+        "photo" : "number66beetle.png"
+    },
+    {
+        "id": "174",
+        "title": "Daigusto Emeral",
+        "type": "Rock / Xyz / Effect",
+        "attack" : 1800,
+        "defense" : 800,
+        "description" : "Once per turn: You can detach 1 Xyz Material from this card, then activate 1 of these effects: [1] Target 3 monsters in your Graveyard; shuffle all 3 into the Deck, then draw 1 card. [2] Target 1 non-Effect Monster in your Graveyard; Special Summon that target.",
+        "photo" : "daigustoemeral.png"
+    },
+    {
+        "id": "175",
+        "title": "Photon Papilloperative",
+        "type": "Warrior / Xyz / Effect",
+        "attack" : 2100,
+        "defense" : 1800,
+        "description" : "Once per turn: You can detach 1 Xyz Material from this card, then target 1 Defense Position monster on the field; change it to face-up Attack Position, and if you do, it loses 600 ATK.",
+        "photo" : "photonpapi.png"
+    },
+    {
+        "id": "176",
+        "title": "Number 101: Silent Honor ARK",
+        "type": "Aqua / Xyz / Effect",
+        "attack" : 2100,
+        "defense" : 1000,
+        "description" : "You can detach 2 Xyz Materials from this card, then target 1 Special Summoned monster your opponent controls in face-up Attack Position; attach it to this card as a face-up Xyz Material. You can only use this effect of \"Number 101: Silent Honor ARK\" once per turn. If this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead.",
+        "photo" : "number101.png"
+    }
+]

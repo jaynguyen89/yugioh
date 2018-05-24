@@ -1,0 +1,740 @@
+[
+    {
+        "id":"177",
+        "title": "Van'Dalgyon the Dark Dragon Lord",
+        "type": "Dragon / Effect",
+        "attack" : 2800,
+        "defense" : 2500,
+        "description" : "If you negate the activation of an opponent's Spell/Trap Card(s), or opponent's monster effect(s), with a Counter Trap Card (except during the Damage Step): You can Special Summon this card from your hand. If Summoned this way, activate these effects and resolve in sequence, depending on the type of card(s) negated by that Counter Trap: [1] Spell: Inflict 1500 damage to your opponent, [2] Trap: Target 1 card your opponent controls; destroy that target, [3] Monster: Target 1 monster in your Graveyard; Special Summon it.",
+        "photo" : "dragonlord.png"
+    },
+    {
+        "id":"178",
+        "title": "Van'Dalgyon the Dark Dragon Lord",
+        "type": "Dragon / Effect",
+        "attack" : 2800,
+        "defense" : 2500,
+        "description" : "If you negate the activation of an opponent's Spell/Trap Card(s), or opponent's monster effect(s), with a Counter Trap Card (except during the Damage Step): You can Special Summon this card from your hand. If Summoned this way, activate these effects and resolve in sequence, depending on the type of card(s) negated by that Counter Trap: [1] Spell: Inflict 1500 damage to your opponent, [2] Trap: Target 1 card your opponent controls; destroy that target, [3] Monster: Target 1 monster in your Graveyard; Special Summon it.",
+        "photo" : "dragonlord.png"
+    },
+    {
+        "id":"179",
+        "title": "Bujin Arasuda",
+        "type": "Beast-Warrior / Effect",
+        "attack" : 1600,
+        "defense" : 1900,
+        "description" : "If a \"Bujin\" monster in your Graveyard or face-up on your side of the field is banished (except during the Damage Step): You can Special Summon this card from your hand in face-up Defense Position. Once per turn, during the End Phase, if a \"Bujin\" card was added from your Deck to your hand this turn, except by drawing it, while you controlled this face-up card: You can draw 1 card, then discard 1 card. You can only control 1 \"Bujin Arasuda\".",
+        "photo" : "bujinarasuda.png"
+    },
+    {
+        "id":"180",
+        "title": "Bujin Arasuda",
+        "type": "Beast-Warrior / Effect",
+        "attack" : 1600,
+        "defense" : 1900,
+        "description" : "If a \"Bujin\" monster in your Graveyard or face-up on your side of the field is banished (except during the Damage Step): You can Special Summon this card from your hand in face-up Defense Position. Once per turn, during the End Phase, if a \"Bujin\" card was added from your Deck to your hand this turn, except by drawing it, while you controlled this face-up card: You can draw 1 card, then discard 1 card. You can only control 1 \"Bujin Arasuda\".",
+        "photo" : "bujinarasuda.png"
+    },
+    {
+        "id":"181",
+        "title": "Bujin Arasuda",
+        "type": "Beast-Warrior / Effect",
+        "attack" : 1600,
+        "defense" : 1900,
+        "description" : "If a \"Bujin\" monster in your Graveyard or face-up on your side of the field is banished (except during the Damage Step): You can Special Summon this card from your hand in face-up Defense Position. Once per turn, during the End Phase, if a \"Bujin\" card was added from your Deck to your hand this turn, except by drawing it, while you controlled this face-up card: You can draw 1 card, then discard 1 card. You can only control 1 \"Bujin Arasuda\".",
+        "photo" : "bujinarasuda.png"
+    },
+    {
+        "id":"182",
+        "title": "Bujingi Boar",
+        "type": "Beast / Effect",
+        "attack" : 1100,
+        "defense" : 1900,
+        "description" : "If you control a \"Bujin\" monster: You can banish this card from your Graveyard, then target 1 face-up Attack Position monster your opponent controls; change it to face-up Defense Position, and if you do, its DEF becomes 0 until the End Phase.",
+        "photo" : "bujingiboar.png"
+    },
+    {
+        "id":"183",
+        "title": "Bujingi Boar",
+        "type": "Beast / Effect",
+        "attack" : 1100,
+        "defense" : 1900,
+        "description" : "If you control a \"Bujin\" monster: You can banish this card from your Graveyard, then target 1 face-up Attack Position monster your opponent controls; change it to face-up Defense Position, and if you do, its DEF becomes 0 until the End Phase.",
+        "photo" : "bujingiboar.png"
+    },
+    {
+        "id": "184",
+        "title" : "Bujingi Quilin",
+        "type": "Beast / Effect",
+        "attack": 1600,
+        "defense": 900,
+        "description" : "If you control a Beast-Warrior-Type \"Bujin\" monster: You can banish this card from your Graveyard, then target 1 face-up card your opponent controls; destroy that target. You can only use the effect of \"Bujingi Quilin\" once per turn.",
+        "photo": "bujingiquilin.png"
+    },
+    {
+        "id": "185",
+        "title" : "Bujingi Quilin",
+        "type": "Beast / Effect",
+        "attack": 1600,
+        "defense": 900,
+        "description" : "If you control a Beast-Warrior-Type \"Bujin\" monster: You can banish this card from your Graveyard, then target 1 face-up card your opponent controls; destroy that target. You can only use the effect of \"Bujingi Quilin\" once per turn.",
+        "photo": "bujingiquilin.png"
+    },
+    {
+        "id":"186",
+        "title": "Bujingi Wolf",
+        "type": "Beast / Effect",
+        "attack" : 1100,
+        "defense" : 2000,
+        "description" : "Other Beast, Beast-Warrior, and Winged Beast-Type monsters you control cannot be destroyed by battle.",
+        "photo" : "bujingiwolf.png"
+    },
+    {
+        "id":"187",
+        "title": "Bujingi Wolf",
+        "type": "Beast / Effect",
+        "attack" : 1100,
+        "defense" : 2000,
+        "description" : "Other Beast, Beast-Warrior, and Winged Beast-Type monsters you control cannot be destroyed by battle.",
+        "photo" : "bujingiwolf.png"
+    },
+    {
+        "id":"188",
+        "title": "Bujingi Wolf",
+        "type": "Beast / Effect",
+        "attack" : 1100,
+        "defense" : 2000,
+        "description" : "Other Beast, Beast-Warrior, and Winged Beast-Type monsters you control cannot be destroyed by battle.",
+        "photo" : "bujingiwolf.png"
+    },
+    {
+        "id":"189",
+        "title": "Bujingi Ophidian",
+        "type": "Winged Beast / Effect",
+        "attack" : 1700,
+        "defense" : 500,
+        "description" : "During your Main Phase 1: You can send this card from your hand to the Graveyard, then target 1 \"Bujin\" monster you control; it can attack your opponent directly this turn.",
+        "photo" : "bujingiophidian.png"
+    },
+    {
+        "id":"190",
+        "title": "Effect Veiler",
+        "type": "Spellcaster / Tunner / Effect",
+        "attack" : 0,
+        "defense" : 0,
+        "description" : "During your opponent's Main Phase: You can send this card from your hand to the Graveyard, then target 1 face-up Effect Monster your opponent controls; negate that opponent's face-up monster's effects until the end of this turn (this is a Quick Effect).",
+        "photo" : "effectveiler.png"
+    },
+    {
+        "id":"191",
+        "title": "Effect Veiler",
+        "type": "Spellcaster / Tunner / Effect",
+        "attack" : 0,
+        "defense" : 0,
+        "description" : "During your opponent's Main Phase: You can send this card from your hand to the Graveyard, then target 1 face-up Effect Monster your opponent controls; negate that opponent's face-up monster's effects until the end of this turn (this is a Quick Effect).",
+        "photo" : "effectveiler.png"
+    },
+    {
+        "id":"192",
+        "title": "Necro Gardna",
+        "type": "Warrior / Effect",
+        "attack" : 600,
+        "defense" : 1300,
+        "description" : "During your opponent's turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).",
+        "photo" : "necrogardna.png"
+    },
+    {
+        "id":"193",
+        "title": "Cardcar D",
+        "type": "Machine / Effect",
+        "attack" : 800,
+        "defense" : 400,
+        "description" : "Cannot be Special Summoned. During your Main Phase 1, if this card was Normal Summoned this turn: You can Tribute this card; draw 2 cards, then it becomes the End Phase of this turn. You cannot Special Summon during the turn you activate this effect.",
+        "photo" : "cardcard.png"
+    },
+    {
+        "id":"194",
+        "title": "Cardcar D",
+        "type": "Machine / Effect",
+        "attack" : 800,
+        "defense" : 400,
+        "description" : "Cannot be Special Summoned. During your Main Phase 1, if this card was Normal Summoned this turn: You can Tribute this card; draw 2 cards, then it becomes the End Phase of this turn. You cannot Special Summon during the turn you activate this effect.",
+        "photo" : "cardcard.png"
+    },
+    {
+        "id":"195",
+        "title": "Cardcar D",
+        "type": "Machine / Effect",
+        "attack" : 800,
+        "defense" : 400,
+        "description" : "Cannot be Special Summoned. During your Main Phase 1, if this card was Normal Summoned this turn: You can Tribute this card; draw 2 cards, then it becomes the End Phase of this turn. You cannot Special Summon during the turn you activate this effect.",
+        "photo" : "cardcard.png"
+    },
+    {
+        "id":"196",
+        "title": "D.D. Crow",
+        "type": "Winged Beast / Effect",
+        "attack" : 100,
+        "defense" : 100,
+        "description" : "During either player's turn: You can discard this card to the Graveyard, then target 1 card in your opponent's Graveyard; banish that target.",
+        "photo" : "ddcrow.png"
+    },
+    {
+        "id":"197",
+        "title": "D.D. Crow",
+        "type": "Winged Beast / Effect",
+        "attack" : 100,
+        "defense" : 100,
+        "description" : "During either player's turn: You can discard this card to the Graveyard, then target 1 card in your opponent's Graveyard; banish that target.",
+        "photo" : "ddcrow.png"
+    },
+    {
+        "id":"198",
+        "title": "Maxx \"C\"",
+        "type": "Insect / Effect",
+        "attack" : 500,
+        "defense" : 200,
+        "description" : "During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 \"Maxx \"C\"\" per turn.",
+        "photo" : "maxxc.png"
+    },
+    {
+        "id":"199",
+        "title": "Maxx \"C\"",
+        "type": "Insect / Effect",
+        "attack" : 500,
+        "defense" : 200,
+        "description" : "During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 \"Maxx \"C\"\" per turn.",
+        "photo" : "maxxc.png"
+    },
+    {
+        "id":"200",
+        "title": "Maxx \"C\"",
+        "type": "Insect / Effect",
+        "attack" : 500,
+        "defense" : 200,
+        "description" : "During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 \"Maxx \"C\"\" per turn.",
+        "photo" : "maxxc.png"
+    },
+    {
+        "id": "201",
+        "title" : "Bujincarnation",
+        "type": "Spell",
+        "attack": null,
+        "defense": null,
+        "description" : "If your opponent controls a monster and you control no monsters: Target 1 \"Bujin\" monster in your Graveyard and 1 of your banished \"Bujin\" monsters; Special Summon both targets. They cannot be used as Xyz Materials for an Xyz Summon, except for the Xyz Summon of a Beast, Beast-Warrior, or Winged Beast-Type monster.",
+        "photo": "bujincarnation.png"
+    },
+    {
+        "id": "202",
+        "title" : "Bujincarnation",
+        "type": "Spell",
+        "attack": null,
+        "defense": null,
+        "description" : "If your opponent controls a monster and you control no monsters: Target 1 \"Bujin\" monster in your Graveyard and 1 of your banished \"Bujin\" monsters; Special Summon both targets. They cannot be used as Xyz Materials for an Xyz Summon, except for the Xyz Summon of a Beast, Beast-Warrior, or Winged Beast-Type monster.",
+        "photo": "bujincarnation.png"
+    },
+    {
+        "id": "203",
+        "title" : "Bujincarnation",
+        "type": "Spell",
+        "attack": null,
+        "defense": null,
+        "description" : "If your opponent controls a monster and you control no monsters: Target 1 \"Bujin\" monster in your Graveyard and 1 of your banished \"Bujin\" monsters; Special Summon both targets. They cannot be used as Xyz Materials for an Xyz Summon, except for the Xyz Summon of a Beast, Beast-Warrior, or Winged Beast-Type monster.",
+        "photo": "bujincarnation.png"
+    },
+    {
+        "id":"204",
+        "title" : "Forbidden Lance",
+        "type": "Quick Spell",
+        "attack": null,
+        "defense": null,
+        "description" : "Target 1 face-up monster on the field; until the end of this turn, that target loses 800 ATK, but is unaffected by the effects of other Spell/Trap Cards.",
+        "photo": "forbiddenlance.png"
+    },
+    {
+        "id":"205",
+        "title" : "Forbidden Lance",
+        "type": "Quick Spell",
+        "attack": null,
+        "defense": null,
+        "description" : "Target 1 face-up monster on the field; until the end of this turn, that target loses 800 ATK, but is unaffected by the effects of other Spell/Trap Cards.",
+        "photo": "forbiddenlance.png"
+    },
+    {
+        "id":"206",
+        "title": "Bujinunity",
+        "type": "Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "If you control no other cards and have at least 1 other card in your hand: Shuffle all Beast-Warrior-Type \"Bujin\" monsters from your Graveyard into the Deck (min. 1), and if you do, send your entire hand to the Graveyard (min. 1), then you can add up to 3 Beast-Warrior-Type \"Bujin\" monsters with different names from your Deck to your hand. You can only activate 1 \"Bujinunity\" per turn.",
+        "photo" : "bujinunity.png"
+    },
+    {
+        "id":"207",
+        "title": "Bujinunity",
+        "type": "Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "If you control no other cards and have at least 1 other card in your hand: Shuffle all Beast-Warrior-Type \"Bujin\" monsters from your Graveyard into the Deck (min. 1), and if you do, send your entire hand to the Graveyard (min. 1), then you can add up to 3 Beast-Warrior-Type \"Bujin\" monsters with different names from your Deck to your hand. You can only activate 1 \"Bujinunity\" per turn.",
+        "photo" : "bujinunity.png"
+    },
+    {
+        "id":"208",
+        "title": "Soul Charge",
+        "type": "Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Target any number of monsters in your GY; Special Summon them, and if you do, you lose 1000 LP for each monster Special Summoned by this effect. You cannot conduct your Battle Phase the turn you activate this card. You can only activate 1 \"Soul Charge\" per turn.",
+        "photo" : "soulcharge.png"
+    },
+    {
+        "id":"209",
+        "title": "Soul Charge",
+        "type": "Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Target any number of monsters in your GY; Special Summon them, and if you do, you lose 1000 LP for each monster Special Summoned by this effect. You cannot conduct your Battle Phase the turn you activate this card. You can only activate 1 \"Soul Charge\" per turn.",
+        "photo" : "soulcharge.png"
+    },
+    {
+        "id": "210",
+        "title": "Soul Release",
+        "type": "Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Target up to 5 cards in any Graveyard(s); banish them.",
+        "photo" : "soulrelease.png"
+    },
+    {
+        "id": "211",
+        "title": "Soul Release",
+        "type": "Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Target up to 5 cards in any Graveyard(s); banish them.",
+        "photo" : "soulrelease.png"
+    },
+    {
+        "id":"212",
+        "title": "Gold Sarcophagus",
+        "type": "Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Banish 1 card from your Deck, face-up. During your second Standby Phase after this card's activation, add that card to your hand.",
+        "photo" : "sarcophagus.png"
+    },
+    {
+        "id":"213",
+        "title": "Mind Control",
+        "type": "Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Target 1 monster your opponent controls; until the End Phase, take control of that target, but it cannot declare an attack or be Tributed.",
+        "photo" : "mindcontrol.png"
+    },
+    {
+        "id":"214",
+        "title": "Upstart Goblin",
+        "type": "Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Draw 1 card, then your opponent gains 1000 Life Points.",
+        "photo" : "upstartgoblin.png"
+    },
+    {
+        "id":"215",
+        "title": "Upstart Goblin",
+        "type": "Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Draw 1 card, then your opponent gains 1000 Life Points.",
+        "photo" : "upstartgoblin.png"
+    },
+    {
+        "id":"216",
+        "title": "Upstart Goblin",
+        "type": "Spell",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Draw 1 card, then your opponent gains 1000 Life Points.",
+        "photo" : "upstartgoblin.png"
+    },
+    {
+        "id":"217",
+        "title": "Big Burn",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "You can only activate this card when your opponent activates a card that targets a monster in the Graveyard. Remove from play all monsters in both players' Graveyards.",
+        "photo" : "bigburn.png"
+    },
+    {
+        "id":"218",
+        "title": "Scrap-Iron Scarecrow",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, also, after that, Set this card face-down instead of sending it to the Graveyard.",
+        "photo" : "scarescrow.png"
+    },
+    {
+        "id":"219",
+        "title": "Breakthrough Skill",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Target 1 face-up Effect Monster your opponent controls; negate the effects of that opponent's face-up monster, until the end of this turn. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Effect Monster your opponent controls; negate that target's effects until the end of this turn.",
+        "photo" : "breakthrough.png"
+    },
+    {
+        "id":"220",
+        "title": "Breakthrough Skill",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Target 1 face-up Effect Monster your opponent controls; negate the effects of that opponent's face-up monster, until the end of this turn. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Effect Monster your opponent controls; negate that target's effects until the end of this turn.",
+        "photo" : "breakthrough.png"
+    },
+    {
+        "id":"221",
+        "title": "Royal Decree",
+        "type": "Infinite Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Negate all other Trap Card effects on the field.",
+        "photo" : "royaldecree.png"
+    },
+    {
+        "id":"222",
+        "title": "Royal Decree",
+        "type": "Infinite Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Negate all other Trap Card effects on the field.",
+        "photo" : "royaldecree.png"
+    },
+    {
+        "id":"223",
+        "title": "Number Wall",
+        "type": "Infinite Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Activate only if you control a \"Number\" monster. \"Number\" monsters on the field cannot be destroyed by card effects, and cannot be destroyed by battle except with another \"Number\" monster. When a \"Number\" monster you control is destroyed, destroy this card.",
+        "photo" : "numberwall.png"
+    },
+    {
+        "id":"224",
+        "title": "Number Wall",
+        "type": "Infinite Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Activate only if you control a \"Number\" monster. \"Number\" monsters on the field cannot be destroyed by card effects, and cannot be destroyed by battle except with another \"Number\" monster. When a \"Number\" monster you control is destroyed, destroy this card.",
+        "photo" : "numberwall.png"
+    },
+    {
+        "id":"225",
+        "title": "Number Wall",
+        "type": "Infinite Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Activate only if you control a \"Number\" monster. \"Number\" monsters on the field cannot be destroyed by card effects, and cannot be destroyed by battle except with another \"Number\" monster. When a \"Number\" monster you control is destroyed, destroy this card.",
+        "photo" : "numberwall.png"
+    },
+    {
+        "id":"226",
+        "title": "Call of the Haunted",
+        "type": "Infinite Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Activate this card by targeting 1 monster in your Graveyard; Special Summon that target in Attack Position. When this card leaves the field, destroy that target. When that target is destroyed, destroy this card.",
+        "photo" : "callofhaunted.png"
+    },
+    {
+        "id":"227",
+        "title": "Call of the Haunted",
+        "type": "Infinite Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Activate this card by targeting 1 monster in your Graveyard; Special Summon that target in Attack Position. When this card leaves the field, destroy that target. When that target is destroyed, destroy this card.",
+        "photo" : "callofhaunted.png"
+    },
+    {
+        "id":"228",
+        "title": "Safe Zone",
+        "type": "Infinite Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Activate this card by targeting 1 face-up Attack Position monster on the field; that face-up monster cannot be targeted or destroyed by your opponent's card effects, or be destroyed by battle. It cannot attack your opponent directly. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+        "photo" : "safezone.png"
+    },
+    {
+        "id":"229",
+        "title": "Safe Zone",
+        "type": "Infinite Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Activate this card by targeting 1 face-up Attack Position monster on the field; that face-up monster cannot be targeted or destroyed by your opponent's card effects, or be destroyed by battle. It cannot attack your opponent directly. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+        "photo" : "safezone.png"
+    },
+    {
+        "id":"230",
+        "title": "Safe Zone",
+        "type": "Infinite Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Activate this card by targeting 1 face-up Attack Position monster on the field; that face-up monster cannot be targeted or destroyed by your opponent's card effects, or be destroyed by battle. It cannot attack your opponent directly. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+        "photo" : "safezone.png"
+    },
+    {
+        "id":"231",
+        "title": "Malevolent Catastrophe",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "When an opponent's monster declares an attack: Destroy all Spell and Trap Cards on the field.",
+        "photo" : "malevolent.png"
+    },
+    {
+        "id":"232",
+        "title": "Malevolent Catastrophe",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "When an opponent's monster declares an attack: Destroy all Spell and Trap Cards on the field.",
+        "photo" : "malevolent.png"
+    },
+    {
+        "id":"233",
+        "title": "Full House",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Target 2 other face-up Spell/Trap Cards and 3 Set Spell/Trap Cards, on the field; destroy them.",
+        "photo" : "fullhouse.png"
+    },
+    {
+        "id":"234",
+        "title": "Full House",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Target 2 other face-up Spell/Trap Cards and 3 Set Spell/Trap Cards, on the field; destroy them.",
+        "photo" : "fullhouse.png"
+    },
+    {
+        "id":"235",
+        "title": "Three of a Kind",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "If you control 3 or more monsters with the same name, except Tokens: Target 3 cards your opponent controls; destroy those targets.",
+        "photo" : "3ofakind.png"
+    },
+    {
+        "id":"236",
+        "title": "Three of a Kind",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "If you control 3 or more monsters with the same name, except Tokens: Target 3 cards your opponent controls; destroy those targets.",
+        "photo" : "3ofakind.png"
+    },
+    {
+        "id":"237",
+        "title": "Trap Stun",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Negate all other Trap Card effects on the field this turn.",
+        "photo" : "trapstun.png"
+    },
+    {
+        "id":"238",
+        "title": "Trap Stun",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Negate all other Trap Card effects on the field this turn.",
+        "photo" : "trapstun.png"
+    },
+    {
+        "id":"239",
+        "title": "Imperial Iron Wall",
+        "type": "Infinite Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Neither player can banish cards.",
+        "photo" : "imperialwall.png"
+    },
+    {
+        "id":"240",
+        "title": "Imperial Iron Wall",
+        "type": "Infinite Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Neither player can banish cards.",
+        "photo" : "imperialwall.png"
+    },
+    {
+        "id":"241",
+        "title": "Treacherous Trap Hole",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "If you have no Trap Cards in your Graveyard: Target 2 monsters on the field; destroy those targets.",
+        "photo" : "treacherous.png"
+    },
+    {
+        "id":"242",
+        "title": "Treacherous Trap Hole",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "If you have no Trap Cards in your Graveyard: Target 2 monsters on the field; destroy those targets.",
+        "photo" : "treacherous.png"
+    },
+    {
+        "id":"243",
+        "title": "Treacherous Trap Hole",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "If you have no Trap Cards in your Graveyard: Target 2 monsters on the field; destroy those targets.",
+        "photo" : "treacherous.png"
+    },
+    {
+        "id":"244",
+        "title": "Quaking Mirror Force",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "When an opponent's monster declares an attack: Change all Attack Position monsters your opponent controls to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
+        "photo" : "quakingmirrorforce.png"
+    },
+    {
+        "id":"245",
+        "title": "Quaking Mirror Force",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "When an opponent's monster declares an attack: Change all Attack Position monsters your opponent controls to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
+        "photo" : "quakingmirrorforce.png"
+    },
+    {
+        "id":"246",
+        "title": "Quaking Mirror Force",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "When an opponent's monster declares an attack: Change all Attack Position monsters your opponent controls to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.",
+        "photo" : "quakingmirrorforce.png"
+    },
+    {
+        "id":"247",
+        "title": "Mirror Force",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "When an opponent's monster declares an attack: Destroy all Attack Position monsters your opponent controls.",
+        "photo" : "mirrorforce.png"
+    },
+    {
+        "id":"248",
+        "title": "Mirror Force",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "When an opponent's monster declares an attack: Destroy all Attack Position monsters your opponent controls.",
+        "photo" : "mirrorforce.png"
+    },
+    {
+        "id":"249",
+        "title": "Bujincident",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Target 1 \"Bujin\" Xyz Monster you control; banish it, and if you do, return all monsters on the field to the hand. Until your 2nd End Phase after activation, neither player can Summon monsters nor take damage (but can Normal Set). During your 2nd End Phase after activation: Target 1 \"Bujin\" monster in your Graveyard; Special Summon the monster banished by this effect, and if you do, attach that target to it as an Xyz Material.",
+        "photo" : "bujincident.png"
+    },
+    {
+        "id":"250",
+        "title": "Bujincident",
+        "type": "Trap",
+        "attack" : null,
+        "defense" : null,
+        "description" : "Target 1 \"Bujin\" Xyz Monster you control; banish it, and if you do, return all monsters on the field to the hand. Until your 2nd End Phase after activation, neither player can Summon monsters nor take damage (but can Normal Set). During your 2nd End Phase after activation: Target 1 \"Bujin\" monster in your Graveyard; Special Summon the monster banished by this effect, and if you do, attach that target to it as an Xyz Material.",
+        "photo" : "bujincident.png"
+    },
+    {
+        "id":"251",
+        "title": "Number 80: Rhapsody in Berserk",
+        "type": "Fiend / Xyz / Effect",
+        "attack" : 0,
+        "defense" : 1200,
+        "description" : "You can target 1 face-up Xyz Monster you control; equip this monster you control to that target. It gains 1200 ATK. You can detach 1 Xyz Material from this card, then target 1 card in your opponent's Graveyard; banish that target. You can use this effect of \"Number 80: Rhapsody in Berserk\" up to twice per turn.",
+        "photo" : "number80.png"
+    },
+    {
+        "id":"252",
+        "title": "Number 80: Rhapsody in Berserk",
+        "type": "Fiend / Xyz / Effect",
+        "attack" : 0,
+        "defense" : 1200,
+        "description" : "You can target 1 face-up Xyz Monster you control; equip this monster you control to that target. It gains 1200 ATK. You can detach 1 Xyz Material from this card, then target 1 card in your opponent's Graveyard; banish that target. You can use this effect of \"Number 80: Rhapsody in Berserk\" up to twice per turn.",
+        "photo" : "number80.png"
+    },
+    {
+        "id":"253",
+        "title": "Number 44: Sky Pegasus",
+        "type": "Beast / Xyz / Effect",
+        "attack" : 1800,
+        "defense" : 1600,
+        "description" : "Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; destroy it, unless your opponent pays 1000 LP to negate this effect.",
+        "photo" : "number44.png"
+    },
+    {
+        "id":"254",
+        "title": "Number 44: Sky Pegasus",
+        "type": "Beast / Xyz / Effect",
+        "attack" : 1800,
+        "defense" : 1600,
+        "description" : "Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; destroy it, unless your opponent pays 1000 LP to negate this effect.",
+        "photo" : "number44.png"
+    },
+    {
+        "id":"255",
+        "title": "Number C39: Utopia Ray",
+        "type": "Warrior / Xyz / Effect",
+        "attack" : 2500,
+        "defense" : 2000,
+        "description" : "You can also Xyz Summon this card by using a \"Number 39: Utopia\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) You can detach 1 Xyz Material from this card; it gains 500 ATK and 1 monster your opponent controls loses 1000 ATK, until the End Phase. You must have 1000 Life Points or less to activate and to resolve this effect.",
+        "photo" : "numberc39.png"
+    },
+    {
+        "id":"256",
+        "title": "Number C39: Utopia Ray",
+        "type": "Warrior / Xyz / Effect",
+        "attack" : 2500,
+        "defense" : 2000,
+        "description" : "You can also Xyz Summon this card by using a \"Number 39: Utopia\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) You can detach 1 Xyz Material from this card; it gains 500 ATK and 1 monster your opponent controls loses 1000 ATK, until the End Phase. You must have 1000 Life Points or less to activate and to resolve this effect.",
+        "photo" : "numberc39.png"
+    },
+    {
+        "id":"257",
+        "title": "Number C39: Utopia Ray",
+        "type": "Warrior / Xyz / Effect",
+        "attack" : 2500,
+        "defense" : 2000,
+        "description" : "You can also Xyz Summon this card by using a \"Number 39: Utopia\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) You can detach 1 Xyz Material from this card; it gains 500 ATK and 1 monster your opponent controls loses 1000 ATK, until the End Phase. You must have 1000 Life Points or less to activate and to resolve this effect.",
+        "photo" : "numberc39.png"
+    },
+    {
+        "id":"258",
+        "title": "Number C39: Utopia Ray",
+        "type": "Warrior / Xyz / Effect",
+        "attack" : 2500,
+        "defense" : 2000,
+        "description" : "You can also Xyz Summon this card by using a \"Number 39: Utopia\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) You can detach 1 Xyz Material from this card; it gains 500 ATK and 1 monster your opponent controls loses 1000 ATK, until the End Phase. You must have 1000 Life Points or less to activate and to resolve this effect.",
+        "photo" : "numberc39.png"
+    }
+]

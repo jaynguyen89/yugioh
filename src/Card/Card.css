@@ -1,0 +1,19 @@
+.deckCard {
+    border: solid 1px darkgrey !important;
+}
+
+.cardLabel {
+    background-color: #b30047;
+    color: white;
+    padding: 0 5px;
+    border-radius: 3px;
+    font-size: smaller;
+}
+
+.cardTitle {
+    font-weight: bolder;
+}
+
+.cardDesc {
+    font-size: x-small !important;
+}

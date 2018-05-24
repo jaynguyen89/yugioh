@@ -1,0 +1,11 @@
+.myHeader {
+  font-size: 1.5em !important;
+  font-weight: bolder !important;
+  line-height: 20px !important;
+  margin: 10px auto 10px 5px;
+}
+
+.full-page {
+  min-width: 100%;
+  margin: 0 10px 20px 10px !important;
+}

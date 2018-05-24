@@ -1,0 +1,389 @@
+[
+    {
+        "id": "100",
+        "title" : "Bujin Hirume",
+        "type": "Beast-Warrior / Effect",
+        "attack": 2000,
+        "defense": 1000,
+        "description" : "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 \"Bujin\" monster from your Greaveyard, except \"Bujin Hirume\". If this card, which was Summoned this way, is destroyed by your opponent's card (by battle or by card effect), and sent from your side of the field to your Graveyard, and both players have a hand: you can discard 1 card, then your opponent discards 1 card. You can only control 1 \"Bujin Hirume\".",
+        "photo": "bujinhirume.png"
+    },
+    {
+        "id": "101",
+        "title" : "Bujin Hirume",
+        "type": "Beast-Warrior / Effect",
+        "attack": 2000,
+        "defense": 1000,
+        "description" : "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 \"Bujin\" monster from your Greaveyard, except \"Bujin Hirume\". If this card, which was Summoned this way, is destroyed by your opponent's card (by battle or by card effect), and sent from your side of the field to your Graveyard, and both players have a hand: you can discard 1 card, then your opponent discards 1 card. You can only control 1 \"Bujin Hirume\".",
+        "photo": "bujinhirume.png"
+    },
+    {
+        "id": "102",
+        "title" : "Bujin Mikazuchi",
+        "type": "Beast-Warrior / Effect",
+        "attack": 1900,
+        "defense": 1500,
+        "description" : "When a Beast-Warrior-Type \"Bujin\" monster(s) you control is destroyed by battle or by card effect and sent to the Graveyard: You can Special Summon this card from your hand. Once per turn, during the End Phase, if a \"Bujin\" monster(s) was sent from your hand to your Graveyard this turn while you controlled this face-up card: You can add 1 \"Bujin\" Spell/Trap Card from your Deck to your hand. You can only control 1 \"Bujin Mikazuchi\".",
+        "photo": "bujinmikazuchi.png"
+    },
+    {
+        "id": "103",
+        "title" : "Bujin Mikazuchi",
+        "type": "Beast-Warrior / Effect",
+        "attack": 1900,
+        "defense": 1500,
+        "description" : "When a Beast-Warrior-Type \"Bujin\" monster(s) you control is destroyed by battle or by card effect and sent to the Graveyard: You can Special Summon this card from your hand. Once per turn, during the End Phase, if a \"Bujin\" monster(s) was sent from your hand to your Graveyard this turn while you controlled this face-up card: You can add 1 \"Bujin\" Spell/Trap Card from your Deck to your hand. You can only control 1 \"Bujin Mikazuchi\".",
+        "photo": "bujinmikazuchi.png"
+    },
+    {
+        "id": "104",
+        "title" : "Bujin Yamato",
+        "type": "Beast-Warrior / Effect",
+        "attack": 1800,
+        "defense": 200,
+        "description" : "Once per turn, during your End Phase: You can add 1 \"Bujin\" monster from your Deck to your hand, then send 1 card from your hand to the Graveyard. You can only control 1 \"Bujin Yamato\".",
+        "photo": "bujinyamato.png"
+    },
+    {
+        "id": "105",
+        "title" : "Bujin Yamato",
+        "type": "Beast-Warrior / Effect",
+        "attack": 1800,
+        "defense": 200,
+        "description" : "Once per turn, during your End Phase: You can add 1 \"Bujin\" monster from your Deck to your hand, then send 1 card from your hand to the Graveyard. You can only control 1 \"Bujin Yamato\".",
+        "photo": "bujinyamato.png"
+    },
+    {
+        "id": "106",
+        "title" : "Bujin Yamato",
+        "type": "Beast-Warrior / Effect",
+        "attack": 1800,
+        "defense": 200,
+        "description" : "Once per turn, during your End Phase: You can add 1 \"Bujin\" monster from your Deck to your hand, then send 1 card from your hand to the Graveyard. You can only control 1 \"Bujin Yamato\".",
+        "photo": "bujinyamato.png"
+    },
+    {
+        "id": "107",
+        "title" : "Bujingi Centipede",
+        "type": "Beast / Effect",
+        "attack": 1700,
+        "defense": 500,
+        "description" : "If you control a Beast-Warrior-Type \"Bujin\" monster: You can banish this card from your Graveyard, then target 1 Spell/Trap Card your opponent controls; destroy that target. You can only use the effect of \"Bujingi Centipede\" once per turn.",
+        "photo": "bujingicentipede.png"
+    },
+    {
+        "id": "108",
+        "title" : "Bujingi Centipede",
+        "type": "Beast / Effect",
+        "attack": 1700,
+        "defense": 500,
+        "description" : "If you control a Beast-Warrior-Type \"Bujin\" monster: You can banish this card from your Graveyard, then target 1 Spell/Trap Card your opponent controls; destroy that target. You can only use the effect of \"Bujingi Centipede\" once per turn.",
+        "photo": "bujingicentipede.png"
+    },
+    {
+        "id": "109",
+        "title" : "Bujingi Crane",
+        "type": "Winged Beast / Effect",
+        "attack": 1600,
+        "defense": 300,
+        "description" : "During damage calculation (in either player's turn), if a Beast-Warrior-Type \"Bujin\" monster you control battles an opponent's monster: You can send this card from your hand to the Graveyard; the ATK of your monster becomes double its original ATK, during that damage calculation only.",
+        "photo": "bujingicrane.png"
+    },
+    {
+        "id": "110",
+        "title" : "Bujingi Crane",
+        "type": "Winged Beast / Effect",
+        "attack": 1600,
+        "defense": 300,
+        "description" : "During damage calculation (in either player's turn), if a Beast-Warrior-Type \"Bujin\" monster you control battles an opponent's monster: You can send this card from your hand to the Graveyard; the ATK of your monster becomes double its original ATK, during that damage calculation only.",
+        "photo": "bujingicrane.png"
+    },
+    {
+        "id": "111",
+        "title" : "Bujingi Crane",
+        "type": "Winged Beast / Effect",
+        "attack": 1600,
+        "defense": 300,
+        "description" : "During damage calculation (in either player's turn), if a Beast-Warrior-Type \"Bujin\" monster you control battles an opponent's monster: You can send this card from your hand to the Graveyard; the ATK of your monster becomes double its original ATK, during that damage calculation only.",
+        "photo": "bujingicrane.png"
+    },
+    {
+        "id": "112",
+        "title" : "Bujingi Hare",
+        "type": "Beast / Effect",
+        "attack": 1700,
+        "defense": 500,
+        "description" : "During either player's turn: You can banish this card from your Graveyard, then target 1 Beast-Warrior-Type \"Bujin\" monster you control; once during this turn, it cannot be destroyed by battle or card effects. You can only use the effect of \"Bujingi Hare\" once per turn.",
+        "photo": "bujingihare.png"
+    },
+    {
+        "id": "113",
+        "title" : "Bujingi Hare",
+        "type": "Beast / Effect",
+        "attack": 1700,
+        "defense": 500,
+        "description" : "During either player's turn: You can banish this card from your Graveyard, then target 1 Beast-Warrior-Type \"Bujin\" monster you control; once during this turn, it cannot be destroyed by battle or card effects. You can only use the effect of \"Bujingi Hare\" once per turn.",
+        "photo": "bujingihare.png"
+    },
+    {
+        "id": "114",
+        "title" : "Bujingi Hare",
+        "type": "Beast / Effect",
+        "attack": 1700,
+        "defense": 500,
+        "description" : "During either player's turn: You can banish this card from your Graveyard, then target 1 Beast-Warrior-Type \"Bujin\" monster you control; once during this turn, it cannot be destroyed by battle or card effects. You can only use the effect of \"Bujingi Hare\" once per turn.",
+        "photo": "bujingihare.png"
+    },
+    {
+        "id": "115",
+        "title" : "Bujingi Hare",
+        "type": "Beast / Effect",
+        "attack": 1700,
+        "defense": 500,
+        "description" : "During either player's turn: You can banish this card from your Graveyard, then target 1 Beast-Warrior-Type \"Bujin\" monster you control; once during this turn, it cannot be destroyed by battle or card effects. You can only use the effect of \"Bujingi Hare\" once per turn.",
+        "photo": "bujingihare.png"
+    },
+    {
+        "id": "116",
+        "title" : "Bujingi Quilin",
+        "type": "Beast / Effect",
+        "attack": 1600,
+        "defense": 900,
+        "description" : "If you control a Beast-Warrior-Type \"Bujin\" monster: You can banish this card from your Graveyard, then target 1 face-up card your opponent controls; destroy that target. You can only use the effect of \"Bujingi Quilin\" once per turn.",
+        "photo": "bujingiquilin.png"
+    },
+    {
+        "id": "117",
+        "title" : "Bujingi Turtle",
+        "type": "Beast / Effect",
+        "attack": 1700,
+        "defense": 1200,
+        "description" : "During either player's turn, when a card or effect is activated that targets a \"Bujin\" monster you control (except during the Damage Step): You can banish this card from your Graveyard; negate that effect.",
+        "photo": "bujingiturtle.png"
+    },
+    {
+        "id": "118",
+        "title" : "Bujingi Turtle",
+        "type": "Beast / Effect",
+        "attack": 1700,
+        "defense": 1200,
+        "description" : "During either player's turn, when a card or effect is activated that targets a \"Bujin\" monster you control (except during the Damage Step): You can banish this card from your Graveyard; negate that effect.",
+        "photo": "bujingiturtle.png"
+    },
+    {
+        "id": "119",
+        "title" : "Honest",
+        "type": "Fairy / Effect",
+        "attack": 1100,
+        "defense": 1900,
+        "description" : "During your Main Phase: You can return this face-up card from the field to the hand. During either player's Damage Step, when a LIGHT monster you control battles: You can send this card from your hand to the Graveyard; that monster gains ATK equal to the ATK of the opponent's monster it is battling, until the end of this turn.",
+        "photo": "honest.png"
+    },
+    {
+        "id": "120",
+        "title" : "Honest",
+        "type": "Fairy / Effect",
+        "attack": 1100,
+        "defense": 1900,
+        "description" : "During your Main Phase: You can return this face-up card from the field to the hand. During either player's Damage Step, when a LIGHT monster you control battles: You can send this card from your hand to the Graveyard; that monster gains ATK equal to the ATK of the opponent's monster it is battling, until the end of this turn.",
+        "photo": "honest.png"
+    },
+    {
+        "id": "121",
+        "title" : "Bujincarnation",
+        "type": "Spell",
+        "attack": null,
+        "defense": null,
+        "description" : "If your opponent controls a monster and you control no monsters: Target 1 \"Bujin\" monster in your Graveyard and 1 of your banished \"Bujin\" monsters; Special Summon both targets. They cannot be used as Xyz Materials for an Xyz Summon, except for the Xyz Summon of a Beast, Beast-Warrior, or Winged Beast-Type monster.",
+        "photo": "bujincarnation.png"
+    },
+    {
+        "id": "122",
+        "title" : "Fire Formation - Tenki",
+        "type": "Infinite Spell",
+        "attack": null,
+        "defense": null,
+        "description" : "When this card is activated: You can add 1 Level 4 or lower Beast-Warrior-Type monster from your Deck to your hand. All Beast-Warrior-Type monsters you control gain 100 ATK. You can only activate 1 \"Fire Formation - Tenki\" per turn.",
+        "photo": "fireformationtenki.png"
+    },
+    {
+        "id": "123",
+        "title" : "Fire Formation - Tenki",
+        "type": "Infinite Spell",
+        "attack": null,
+        "defense": null,
+        "description" : "When this card is activated: You can add 1 Level 4 or lower Beast-Warrior-Type monster from your Deck to your hand. All Beast-Warrior-Type monsters you control gain 100 ATK. You can only activate 1 \"Fire Formation - Tenki\" per turn.",
+        "photo": "fireformationtenki.png"
+    },
+    {
+        "id": "124",
+        "title" : "Fire Formation - Tenki",
+        "type": "Infinite Spell",
+        "attack": null,
+        "defense": null,
+        "description" : "When this card is activated: You can add 1 Level 4 or lower Beast-Warrior-Type monster from your Deck to your hand. All Beast-Warrior-Type monsters you control gain 100 ATK. You can only activate 1 \"Fire Formation - Tenki\" per turn.",
+        "photo": "fireformationtenki.png"
+    },
+    {
+        "id": "125",
+        "title" : "Kaiser Colosseum",
+        "type": "Infinite Spell",
+        "attack": null,
+        "defense": null,
+        "description" : "If there is 1 or more monster(s) on the field of the controller of this card, his/her opponent cannot place a monster on the field if his/her number of monsters would exceed the number of monsters that are on the field of this card's controller. The cards that are already on the field before this card's activation are unaffected by this effect.",
+        "photo": "kaisercolosseum.png"
+    },
+    {
+        "id": "126",
+        "title" : "Kaiser Colosseum",
+        "type": "Infinite Spell",
+        "attack": null,
+        "defense": null,
+        "description" : "If there is 1 or more monster(s) on the field of the controller of this card, his/her opponent cannot place a monster on the field if his/her number of monsters would exceed the number of monsters that are on the field of this card's controller. The cards that are already on the field before this card's activation are unaffected by this effect.",
+        "photo": "kaisercolosseum.png"
+    },
+    {
+        "id": "127",
+        "title" : "Pot of Duality",
+        "type": "Spell",
+        "attack": null,
+        "defense": null,
+        "description" : "Excavate the top 3 cards of your Deck, add 1 of them to your hand, also, after that, shuffle the rest back into your Deck. You can only activate 1 \"Pot of Duality\" per turn. You cannot Special Summon during the turn you activate this card.",
+        "photo": "potofduty.png"
+    },
+    {
+        "id": "128",
+        "title" : "Pot of Duality",
+        "type": "Spell",
+        "attack": null,
+        "defense": null,
+        "description" : "Excavate the top 3 cards of your Deck, add 1 of them to your hand, also, after that, shuffle the rest back into your Deck. You can only activate 1 \"Pot of Duality\" per turn. You cannot Special Summon during the turn you activate this card.",
+        "photo": "potofduty.png"
+    },
+    {
+        "id": "129",
+        "title" : "Pot of Duality",
+        "type": "Spell",
+        "attack": null,
+        "defense": null,
+        "description" : "Excavate the top 3 cards of your Deck, add 1 of them to your hand, also, after that, shuffle the rest back into your Deck. You can only activate 1 \"Pot of Duality\" per turn. You cannot Special Summon during the turn you activate this card.",
+        "photo": "potofduty.png"
+    },
+    {
+        "id": "130",
+        "title" : "Raigeki",
+        "type": "Spell",
+        "attack": null,
+        "defense": null,
+        "description" : "Destroy all monsters your opponent controls.",
+        "photo": "raigeki.png"
+    },
+    {
+        "id": "131",
+        "title" : "Bottomless Trap Hole",
+        "type": "Trap",
+        "attack": null,
+        "defense": null,
+        "description" : "When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it instead of sending it to the Graveyard.",
+        "photo": "bottomless.png"
+    },
+    {
+        "id": "132",
+        "title" : "Bujin Regalia - The Jewel",
+        "type": "Trap",
+        "attack": null,
+        "defense": null,
+        "description" : "Target 1 Rank 4 Xyz Monster you control; equip this card to that target. It gains 300 ATK for each Xyz Material attached to it. Once per turn, while this card is equipped to a monster by this effect: You can attach 1 \"Bujin\" monster from your hand to the equipped monster as an Xyz Material.",
+        "photo": "bujinregaliajewel.png"
+    },
+    {
+        "id": "133",
+        "title" : "Bujin Regalia - The Sword",
+        "type": "Trap",
+        "attack": null,
+        "defense": null,
+        "description" : "Activate 1 of these effects: [1] Target 1 \"Bujin\" monster in your Graveyard; add that target to your hand. [2] Target 1 of your banished \"Bujin\" monsters; send that target to the Graveyard.",
+        "photo": "bujinregaliasword.png"
+    },
+    {
+        "id": "134",
+        "title" : "Bujin Regalia - The Sword",
+        "type": "Trap",
+        "attack": null,
+        "defense": null,
+        "description" : "Activate 1 of these effects: [1] Target 1 \"Bujin\" monster in your Graveyard; add that target to your hand. [2] Target 1 of your banished \"Bujin\" monsters; send that target to the Graveyard.",
+        "photo": "bujinregaliasword.png"
+    },
+    {
+        "id": "135",
+        "title" : "Dimensional Prison",
+        "type": "Trap",
+        "attack": null,
+        "defense": null,
+        "description" : "When an opponent's monster declares an attack: Target that attacking monster; banish that target.",
+        "photo": "dimentionalprison.png"
+    },
+    {
+        "id": "136",
+        "title" : "Dimensional Prison",
+        "type": "Trap",
+        "attack": null,
+        "defense": null,
+        "description" : "When an opponent's monster declares an attack: Target that attacking monster; banish that target.",
+        "photo": "dimentionalprison.png"
+    },
+    {
+        "id": "137",
+        "title" : "Dimensional Prison",
+        "type": "Trap",
+        "attack": null,
+        "defense": null,
+        "description" : "When an opponent's monster declares an attack: Target that attacking monster; banish that target.",
+        "photo": "dimentionalprison.png"
+    },
+    {
+        "id": "138",
+        "title" : "Dimensional Prison",
+        "type": "Trap",
+        "attack": null,
+        "defense": null,
+        "description" : "When an opponent's monster declares an attack: Target that attacking monster; banish that target.",
+        "photo": "dimentionalprison.png"
+    },
+    {
+        "id": "139",
+        "title" : "Shadow-Imprisoning Mirror",
+        "type": "Infinite Trap",
+        "attack": null,
+        "defense": null,
+        "description" : "Negate all DARK monster effects activated on the field or in the Graveyard.",
+        "photo": "shadowimprisoning.png"
+    },
+    {
+        "id": "140",
+        "title" : "Shadow-Imprisoning Mirror",
+        "type": "Infinite Trap",
+        "attack": null,
+        "defense": null,
+        "description" : "Negate all DARK monster effects activated on the field or in the Graveyard.",
+        "photo": "shadowimprisoning.png"
+    },
+    {
+        "id": "141",
+        "title" : "Fiendish Chain",
+        "type": "Infinite Trap",
+        "attack": null,
+        "defense": null,
+        "description" : "Select 1 monster on the field. Its effects are negated and it cannot attack or be Tributed. When it is destroyed and sent to the Graveyard, destroy this card. If your Life Points are 1000 or less, destroy this card.",
+        "photo": "fiendishchain.png"
+    },
+    {
+        "id": "142",
+        "title" : "Fiendish Chain",
+        "type": "Infinite Trap",
+        "attack": null,
+        "defense": null,
+        "description" : "Select 1 monster on the field. Its effects are negated and it cannot attack or be Tributed. When it is destroyed and sent to the Graveyard, destroy this card. If your Life Points are 1000 or less, destroy this card.",
+        "photo": "fiendishchain.png"
+    }
+]

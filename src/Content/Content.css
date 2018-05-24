@@ -1,0 +1,82 @@
+.myContent {
+    margin: 0 10px 5px 10px;
+}
+
+.searchBox {
+    border: solid 1px gray;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px !important;
+}
+
+.myButtons {
+    margin: 10px 0 10px 0 !important;
+}
+
+.mainDeckContainer {
+    min-width: 100%;
+    border: solid 1px goldenrod !important;
+}
+
+.mainDeckHeader {
+    background-color: #ffffb3 !important;
+    border-bottom: solid 1px goldenrod !important;
+}
+
+.mainDeckContent {
+    background-color: #ffffcc !important;
+}
+
+.headerTitle {
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+
+.headerLabel {
+    background-color: #800033;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.extraDeckContainer {
+    min-width: 100%;
+    border: solid 1px #000033 !important;
+}
+
+.extraDeckHeader {
+    background-color: #004d00 !important;
+    border-bottom: solid 1px #000033 !important;
+}
+
+.extraDeckContent {
+    background-color: #e6ffe6 !important;
+}
+
+.sideDeckContainer {
+    min-width: 100%;
+    border: solid 1px #800080 !important;
+}
+
+.sideDeckHeader {
+    background-color: #ff99ff !important;
+    border-bottom: solid 1px #800080 !important;
+}
+
+.sideDeckContent {
+    background-color: #ffe6ff !important;
+}
+
+.vaultContainer {
+    min-width: 100%;
+    border: solid 1px #373737 !important;
+}
+
+.vaultHeader {
+    background-color: #959595 !important;
+    border-bottom: solid 1px #373737 !important;
+}
+
+.vaultContent {
+    background-color: #bebebe !important;
+}

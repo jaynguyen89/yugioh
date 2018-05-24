@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#000000">
+    
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+    <link rel="stylesheet" href="assets/css/semantic.min.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
+    
+    <title>React Demo</title>
+  </head>
+  <body>
+    <div class="myNavbar">
+      <div class="ui container" style="margin-bottom: 30px;">
+        <div class="ui container stackable grid">
+            <div class="left floated eight wide column">
+                <div class="myHeader">
+                  <header className="App-header" style="margin-top: 25px;">
+                    <img src="assets/photo/jaydev.PNG" class="ui small image" alt="logo" />
+                  </header>
+                </div>
+            </div>
+            <div class="right floated center aligned eight wide column">
+                <h2 class="myHeaderColor headerText">Single-page React Demo</h1>
+            </div>
+        </div>
+      </div>
+    </div>
+
+    <noscript>
+      <div style="width: 100%; text-align: center; margin-top: 150px;">
+        <h1>
+          <p style="color: orangered; font-size: 3em;">&#9888;</p>
+          Please enable Javascript in your browser to run this app.
+        </h1>
+      </div>
+    </noscript>
+
+    <div class="ui container">
+      <div class="introduction">
+        <h1>Introduction</h1>
+        <p>The inspiration of this demo was about a well-known arcade game: <b>Yugi-Oh! Duel Generation</b>.</p>
+        <p>This app allows you to manage a mini-deck of Yugi-Oh Cards with the following particular rules:</p>
+        <ul>
+          <li>Main deck contains at least 30 cards, and at most 50 cards. Side deck and extra deck each can contain 0 card or at most 15 cards.</li>
+          <li>Cards in this app are divided into 3 groups: <b>Monsters</b> (yellow), <b>Spells</b> (blue), <b>Traps</b> (red) and <b>Specials</b> (black).</li>
+          <li>At most 3 cards of the same name can be added to any deck. Extra deck can contain <b>Special</b> cards only.</li>
+          <li>Card Vault can contain any number of cards of any types. This is where to store the unused cards or card collection.</li>
+        </ul>
+        <p>Feel free to play with this app.</p>
+      </div>
+    </div>
+
+    <div id="root"></div>
+
+    <div class="footer-container">
+      <header class="footer">
+        <img src="assets/photo/logo.svg" class="logo" alt="logo" />
+        <h1>MVVM & ReactJS</h1>
+      </header>
+    </div>
+
+    <script src="assets/javascript/semantic.min.js"></script>
+  </body>
+</html>

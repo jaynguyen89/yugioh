@@ -1,0 +1,146 @@
+[
+    {
+        "id": "143",
+        "title": "Abyss Dweller",
+        "type": "Sea Serpent / Xyz / Effect",
+        "attack" : 1700,
+        "defense" : 1400,
+        "description" : "While this card has an Xyz Material attached that was originally WATER, all WATER monsters you control gain 500 ATK. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; any card effects that activate in your opponent's Graveyard cannot be activated this turn.",
+        "photo" : "abyssdweller.png"
+    },
+    {
+        "id": "144",
+        "title": "Bujinki Amaterasu",
+        "type": "Beast-Warrior / Xyz / Effect",
+        "attack" : 2600,
+        "defense" : 2500,
+        "description" : "You can only control 1 \"Bujinki Amaterasu\". Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; apply this effect, depending on whose turn it is: [1] Your turn: Target 1 of your banished Level 4 or lower monsters; Special Summon that target. [2] Your opponent's turn: Target 1 of your banished Level 4 or lower monsters; add that target to your hand.",
+        "photo" : "bujinkiamaterasu.png"
+    },
+    {
+        "id": "145",
+        "title": "Bujintei Kagutsuchi",
+        "type": "Beast-Warrior / Xyz / Effect",
+        "attack" : 2500,
+        "defense" : 2000,
+        "description" : "When this card is Xyz Summoned: Send the top 5 cards of your Deck to the Graveyard (or your entire Deck, if less than 5), also this card gains 100 ATK for each \"Bujin\" card sent to the Graveyard by this effect. If a \"Bujin\" Beast-Warrior-Type monster(s) you control would be destroyed by battle or by card effect, you can detach 1 Xyz Material from this card instead of destroying 1 of those monsters. You can only control 1 \"Bujintei Kagutsuchi\".",
+        "photo" : "bujinkagutsuchi.png"
+    },
+    {
+        "id": "146",
+        "title": "Bujintei Susanowo",
+        "type": "Beast-Warrior / Xyz / Effect",
+        "attack" : 2400,
+        "defense" : 1600,
+        "description" : "This card can attack all monsters your opponent controls once each. Once per turn: You can detach 1 Xyz Material from this card; take 1 \"Bujin\" monster from your Deck, and either add it to your hand or send it to the Graveyard. You can only control 1 \"Bujintei Susanowo\".",
+        "photo" : "bujinsusanowo.png"
+    },
+    {
+        "id": "147",
+        "title": "Bujintei Susanowo",
+        "type": "Beast-Warrior / Xyz / Effect",
+        "attack" : 2400,
+        "defense" : 1600,
+        "description" : "This card can attack all monsters your opponent controls once each. Once per turn: You can detach 1 Xyz Material from this card; take 1 \"Bujin\" monster from your Deck, and either add it to your hand or send it to the Graveyard. You can only control 1 \"Bujintei Susanowo\".",
+        "photo" : "bujinsusanowo.png"
+    },
+    {
+        "id": "148",
+        "title": "Bujintei Tsukiyomi",
+        "type": "Beast-Warrior / Xyz / Effect",
+        "attack" : 1800,
+        "defense" : 2300,
+        "description" : "Once per turn: You can detach 1 Xyz Material from this card; send your entire hand to the Graveyard (min. 1), and if you do, draw 2 cards. When this card you controlled while face-up leaves the field because of an opponent's card effect: You can target Level 4 Beast-Warrior-Type \"Bujin\" monsters in your Graveyard, up to the number of Xyz Materials this card had on the field; Special Summon those targets. You can only control 1 \"Bujintei Tsukuyomi\".",
+        "photo" : "bujintsukuyomi.png"
+    },
+    {
+        "id": "149",
+        "title": "Diamond Dire Wolf",
+        "type": "Beast / Xyz / Effect",
+        "attack" : 2000,
+        "defense" : 1200,
+        "description" : "Once per turn: You can detach 1 Xyz Material from this card, then target 1 Beast, Beast-Warrior, or Winged Beast-Type monster you control and 1 other card on the field; destroy them.",
+        "photo" : "diamonddirewolf.png"
+    },
+    {
+        "id": "150",
+        "title": "Evigishki Merrowgeist",
+        "type": "Sea Serpent / Xyz / Effect",
+        "attack" : 2100,
+        "defense" : 1600,
+        "description" : "After damage calculation, if this card destroys an opponent's monster by battle: You can detach 1 Xyz Material from this card; shuffle the destroyed monster into the Deck instead of sending it to the Graveyard.",
+        "photo" : "evigishkimerrowheist.png"
+    },
+    {
+        "id": "151",
+        "title": "Number 101: Silent Honor ARK",
+        "type": "Aqua / Xyz / Effect",
+        "attack" : 2100,
+        "defense" : 1000,
+        "description" : "You can detach 2 Xyz Materials from this card, then target 1 Special Summoned monster your opponent controls in face-up Attack Position; attach it to this card as a face-up Xyz Material. You can only use this effect of \"Number 101: Silent Honor ARK\" once per turn. If this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead.",
+        "photo" : "number101.png"
+    },
+    {
+        "id": "152",
+        "title": "Number 101: Silent Honor ARK",
+        "type": "Aqua / Xyz / Effect",
+        "attack" : 2100,
+        "defense" : 1000,
+        "description" : "You can detach 2 Xyz Materials from this card, then target 1 Special Summoned monster your opponent controls in face-up Attack Position; attach it to this card as a face-up Xyz Material. You can only use this effect of \"Number 101: Silent Honor ARK\" once per turn. If this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead.",
+        "photo" : "number101.png"
+    },
+    {
+        "id": "153",
+        "title": "Number 101: Silent Honor ARK",
+        "type": "Aqua / Xyz / Effect",
+        "attack" : 2100,
+        "defense" : 1000,
+        "description" : "You can detach 2 Xyz Materials from this card, then target 1 Special Summoned monster your opponent controls in face-up Attack Position; attach it to this card as a face-up Xyz Material. You can only use this effect of \"Number 101: Silent Honor ARK\" once per turn. If this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead.",
+        "photo" : "number101.png"
+    },
+    {
+        "id": "154",
+        "title": "Number 103: Ragnazero",
+        "type": "Fairy / Xyz / Effect",
+        "attack" : 2400,
+        "defense" : 1200,
+        "description" : "Cannot be destroyed by battle except with \"Number\" monsters. When the ATK of a opponent's monster(s) becomes less than its original ATK: You can detach 1 Xyz Material from this card; destroy 1 of those opponent's monster(s), and if you do, draw 1 card.",
+        "photo" : "number103.png"
+    },
+    {
+        "id": "155",
+        "title": "Number 50: Blackship of Corn",
+        "type": "Plant / Xyz / Effect",
+        "attack" : 2100,
+        "defense" : 1500,
+        "description" : "Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls with ATK less than or equal to this card's; send it to the Graveyard, and if you do, inflict 1000 damage to your opponent. This card cannot attack the turn you activate this effect.",
+        "photo" : "number50blackship.png"
+    },
+    {
+        "id": "156",
+        "title": "Starliege Paladynamo",
+        "type": "Warrior / Xyz / Effect",
+        "attack" : 2000,
+        "defense" : 1000,
+        "description" : "Once per turn: You can detach 2 Xyz Materials from this card to target 1 face-up monster your opponent controls; its ATK becomes 0, and if it does, its effects are negated. When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Draw 1 card.",
+        "photo" : "starliepaladinamo.png"
+    },
+    {
+        "id": "157",
+        "title": "Steelswarm Roach",
+        "type": "Fiend / Xyz / Effect",
+        "attack" : 1900,
+        "defense" : 0,
+        "description" : "During either player's turn, when a Level 5 or higher monster would be Special Summoned: You can detach 1 Xyz Material from this card; negate the Special Summon, and if you do, destroy it.",
+        "photo" : "steelswarm.png"
+    },
+    {
+        "id": "158",
+        "title": "Number 39: Utopia",
+        "type": "Warrior / Xyz / Effect",
+        "attack" : 2500,
+        "defense" : 2000,
+        "description" : "When any player's monster declares an attack: You can detach 1 Xyz Material from this card; negate the attack. When this card is targeted for an attack, while it has no Xyz Materials: Destroy this card.",
+        "photo" : "number39utopia.png"
+    }
+]
