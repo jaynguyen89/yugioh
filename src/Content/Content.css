@@ -3,8 +3,7 @@
 }
 
 .searchBox {
-    border: solid 1px gray;
-    border-radius: 10px;
+    border: transparent;
     padding: 10px;
     margin-bottom: 10px !important;
 }

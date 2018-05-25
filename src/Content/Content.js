@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Content.css';
 import Card from '../Card/Card';
-import { countCards, checkXyz, getNewFromDeck, getNewToDeck, verifyDeck } from './custom.js';
+import { checkXyz, getNewFromDeck, getNewToDeck, verifyDeck, getSearchedCards } from './custom.js';
 
 import main_deck from './jsons/main_deck.json';
 import extra_deck from './jsons/extra_deck.json';
@@ -14,6 +14,8 @@ class Content extends Component {
 
         this.verifyDecks = this.verifyDecks.bind(this);
         this.revertDefault = this.revertDefault.bind(this);
+        this.searchCards = this.searchCards.bind(this);
+        this.updateSearches = this.updateSearches.bind(this);
 
         this.moveToMainDeck = this.moveToMainDeck.bind(this);
         this.moveToExtraDeck = this.moveToExtraDeck.bind(this);
@@ -25,7 +27,14 @@ class Content extends Component {
             sideDeck : side_deck,
             extraDeck : extra_deck,
             cardVault : card_vault,
-            isChanged : false
+
+            isChanged : false,
+            keyword : "",
+
+            mainBackup : main_deck,
+            sideBackup : side_deck,
+            extraBackup : extra_deck,
+            vaultBackup : card_vault
         }
     }
 
@@ -45,45 +54,103 @@ class Content extends Component {
             extraDeck : extra_deck,
             sideDeck : side_deck,
             cardVault : card_vault,
-            isChanged : false
+            isChanged : false,
+            keyword : "",
+            mainBackup : main_deck,
+            sideBackup : side_deck,
+            extraBackup : extra_deck,
+            vaultBackup : card_vault
         });
+    }
+
+    searchCards(event) {
+        var keyword = event.target.value.toLowerCase();
+        this.setState({ keyword : keyword });
+
+        if (keyword !== "") {    
+            var mainDkResult = getSearchedCards(this.state.mainBackup, keyword);
+            var extraDkResult = getSearchedCards(this.state.extraBackup, keyword);
+            var sideDkResult = getSearchedCards(this.state.sideBackup, keyword);
+            var vaultDkResult = getSearchedCards(this.state.vaultBackup, keyword);
+
+            this.setState({ mainDeck : mainDkResult, extraDeck : extraDkResult,
+                            sideDeck : sideDkResult, cardVault : vaultDkResult });
+        }
+        else {
+            this.setState({ mainDeck : this.state.mainBackup,
+                            extraDeck : this.state.extraBackup,
+                            sideDeck : this.state.sideBackup,
+                            cardVault : this.state.vaultBackup });
+        }
+    }
+
+    updateSearches(keyword) {
+        var mainDkResult = getSearchedCards(this.state.mainBackup, keyword);
+        var extraDkResult = getSearchedCards(this.state.extraBackup, keyword);
+        var sideDkResult = getSearchedCards(this.state.sideBackup, keyword);
+        var vaultDkResult = getSearchedCards(this.state.vaultBackup, keyword);
+
+        this.setState({ mainDeck : mainDkResult, extraDeck : extraDkResult,
+                        sideDeck : sideDkResult, cardVault : vaultDkResult });
     }
 
     moveToMainDeck(origin, card) {
         if (checkXyz(card.type))
             alert("This type of card cannot reside in Main Deck.");
         else {
-            const fromDeck = (origin === "side" ? this.state.sideDeck.slice(0) : this.state.cardVault.slice(0));
-            const toDeck = this.state.mainDeck.slice(0);
+            const fromDeck = (origin === "side" ? this.state.sideBackup.slice(0) : this.state.vaultBackup.slice(0));
+            const toDeck = this.state.mainBackup.slice(0);
 
             let newToDeck = getNewToDeck(toDeck, card);
             let newFromDeck = getNewFromDeck(fromDeck, card, origin);
 
-            this.setState({ mainDeck : newToDeck });
-            
-            if (origin === "side")
-                this.setState({ sideDeck : newFromDeck });
-            else
-                this.setState({ cardVault : newFromDeck });
+            this.setState({ mainBackup : newToDeck });
 
+            if (this.state.keyword === "")
+                this.setState({ mainDeck : newToDeck });
+            
+            if (origin === "side") {
+                this.setState({ sideBackup : newFromDeck });
+
+                if (this.state.keyword === "")
+                    this.setState({ sideDeck : newFromDeck });
+            }
+            else {
+                this.setState({ vaultBackup : newFromDeck });
+
+                if (this.state.keyword === "")
+                    this.setState({ cardVault : newFromDeck });
+            }
+            
             this.setState({ isChanged : true });
         }
     }
     
     moveToExtraDeck(origin, card) {
         if (checkXyz(card.type)) {
-            const fromDeck = (origin === "side" ? this.state.sideDeck.slice(0) : this.state.cardVault.slice(0));
-            const toDeck = this.state.extraDeck.slice(0);
+            const fromDeck = (origin === "side" ? this.state.sideBackup.slice(0) : this.state.vaultBackup.slice(0));
+            const toDeck = this.state.extraBackup.slice(0);
 
             let newToDeck = getNewToDeck(toDeck, card);
             let newFromDeck = getNewFromDeck(fromDeck, card, origin);
 
-            this.setState({ extraDeck : newToDeck });
+            this.setState({ extraBackup : newToDeck });
             
-            if (origin === "side")
-                this.setState({ sideDeck : newFromDeck });
-            else
-                this.setState({ cardVault : newFromDeck });
+            if (this.state.keyword === "")
+                this.setState({ extraDeck : newToDeck });
+            
+            if (origin === "side") {
+                this.setState({ sideBackup : newFromDeck });
+
+                if (this.state.keyword === "")
+                    this.setState({ sideDeck : newFromDeck });
+            }
+            else {
+                this.setState({ vaultBackup : newFromDeck });
+
+                if (this.state.keyword === "")
+                    this.setState({ cardVault : newFromDeck });
+            }
 
             this.setState({ isChanged : true });
         }
@@ -92,41 +159,71 @@ class Content extends Component {
     }
     
     moveToSideDeck(origin, card) {
-        const fromDeck = (origin === "main" ? this.state.mainDeck.slice(0) :
-                          (origin === "extra" ? this.state.extraDeck.slice(0) : this.state.cardVault.slice(0)));
-        const toDeck = this.state.sideDeck.slice(0);
+        const fromDeck = (origin === "main" ? this.state.mainBackup.slice(0) :
+                         (origin === "extra" ? this.state.extraBackup.slice(0) : this.state.vaultBackup.slice(0)));
+        const toDeck = this.state.sideBackup.slice(0);
         
         let newToDeck = getNewToDeck(toDeck, card);
         let newFromDeck = getNewFromDeck(fromDeck, card, origin);
 
-        this.setState ({ sideDeck : newToDeck });
+        this.setState({ sideBackup : newToDeck });
 
-        if (origin === "main")
-            this.setState({ mainDeck : newFromDeck });
-        else if (origin === "extra")
-            this.setState({ extraDeck : newFromDeck });
-        else
-            this.setState({ cardVault : newFromDeck });
+        if (this.state.keyword === "")
+            this.setState({ sideDeck : newToDeck });
+
+        if (origin === "main") {
+            this.setState({ mainBackup : newFromDeck });
+
+            if (this.state.keyword === "")
+                this.setState({ mainDeck : newFromDeck });
+        }
+        else if (origin === "extra") {
+            this.setState({ extraBackup : newFromDeck });
+
+            if (this.state.keyword === "")
+                this.setState({ extraDeck : newFromDeck });
+        }
+        else {
+            this.setState({ vaultBackup : newFromDeck });
+            
+            if (this.state.keyword === "")
+                this.setState({ cardVault : newFromDeck });
+        }
         
         this.setState({ isChanged : true });
     }
     
     moveToCardVault(origin, card) {
-        const fromDeck = (origin === "main" ? this.state.mainDeck.slice(0) :
-                          (origin === "extra" ? this.state.extraDeck.slice(0) : this.state.sideDeck.slice(0)));
-        const toDeck = this.state.cardVault.slice(0);
+        const fromDeck = (origin === "main" ? this.state.mainBackup.slice(0) :
+                         (origin === "extra" ? this.state.extraBackup.slice(0) : this.state.sideBackup.slice(0)));
+        const toDeck = this.state.vaultBackup.slice(0);
 
         let newToDeck = getNewToDeck(toDeck, card);
         let newFromDeck = getNewFromDeck(fromDeck, card, origin);
 
-        this.setState({ cardVault : newToDeck });
+        this.setState({ vaultBackup : newToDeck });
 
-        if (origin === "main")
-            this.setState({ mainDeck : newFromDeck });
-        else if (origin === "extra")
-            this.setState({ extraDeck : newFromDeck });
-        else
-            this.setState({ sideDeck : newFromDeck });
+        if (this.state.keyword === "")
+            this.setState({ cardVault : newToDeck });
+
+        if (origin === "main") {
+            this.setState({ mainBackup : newFromDeck });
+
+            if (this.state.keyword === "")
+                this.setState({ mainDeck : newFromDeck });
+        }
+        else if (origin === "extra") {
+            this.setState({ extraBackup : newFromDeck });
+
+            if (this.state.keyword === "")
+                this.setState({ extraDeck : newFromDeck });
+        }
+        else {
+            this.setState({ sideBackup : newFromDeck });
+
+            if (this.state.keyword === "")
+                this.setState({ sideDeck : newFromDeck });
+        }
         
         this.setState({ isChanged : true });
     }
@@ -135,7 +232,9 @@ class Content extends Component {
         return (
             <div class="myContent">
                 <div class="content searchBox">
-                    Search box
+                    <div class="ui fluid huge icon input">
+                        <input name="keyword" type="text" placeholder="Search for cards..." onChange={ this.searchCards } />
+                    </div>
                 </div>
                 <div class="content">
                     <div class="ui stackable grid">

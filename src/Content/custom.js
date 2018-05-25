@@ -25,14 +25,6 @@ export function getNewFromDeck(fromDeck, card, origin) {
     return newFromDeck;
 }
 
-export function countCards(deck) {
-    var quantity = 0;
-    for (var i = 0; i < deck.length; i++)
-        quantity += 1;
-    
-    return quantity;
-}
-
 export function importImages(r) {
     let images = {};
     r.keys().map((item, index) => { images[item.replace('./', '')] = r(item); });
@@ -40,7 +32,7 @@ export function importImages(r) {
 }
 
 export function checkXyz(type) {
-    return (type.toLowerCase().indexOf("xyz") != -1);
+    return (type.toLowerCase().indexOf("xyz") !== -1);
 }
 
 export function getInsertIndex(deck, card) {
@@ -108,11 +100,11 @@ export function getInsertIndex(deck, card) {
 }
 
 function getCardType(type) {
-    if (type.toLowerCase().indexOf("spell") != -1)
+    if (type.toLowerCase().indexOf("spell") !== -1)
         return "spell";
-    else if (type.toLowerCase().indexOf("trap") != -1)
+    else if (type.toLowerCase().indexOf("trap") !== -1)
         return "trap";
-    else if (type.toLowerCase().indexOf("xyz") != -1)
+    else if (type.toLowerCase().indexOf("xyz") !== -1)
         return "xyz";
     else
         return "beast";
@@ -142,7 +134,7 @@ export function verifyDeck(deck, context) {
                 alert("Error: " + (context === "main" ? "Main Deck" : (context === "extra" ? "Extra Deck" : "Side Deck")) +
                 " - more than 3 of card \"" + deck[deckResult[1]].title + "\". Found: " + deckResult[2] + " cards.");
 
-            var deckResult = deepScanDeck(deck, false, deckResult[1], context);
+            deckResult = deepScanDeck(deck, false, deckResult[1], context);
         }
 
         if (context === "main")
@@ -194,4 +186,13 @@ function deepScanDeck(deck, flag, i, context) {
     }
 
     return [error, errorAt, countCard];
+}
+
+export function getSearchedCards(deck, keyword) {
+    var results = new Array();
+    for (var i = 0; i < deck.length; i++)
+        if (deck[i].title.toLowerCase().indexOf(keyword) !== -1)
+            results.push(deck[i]);
+    
+    return results;
 }
